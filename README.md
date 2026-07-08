@@ -74,21 +74,9 @@ An intelligent **AI-powered Finance Tracker** built with **Python, Streamlit, Gr
 ## 📁 Project Structure
 
 ```bash
-AI-Finance-Tracker/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── assets/
-│   └── screenshots/
-│
-├── data/
-│   └── sample_data.csv
-│
-└── utils/
-    ├── data_processing.py
-    ├── charts.py
-    └── ai_analysis.py
+Finance_tracker.py
+README.md
+requirements.txt
 ```
 
 ---
